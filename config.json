@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Wetterstation",
+        "client_id": "625be70c988522184430bfd2",
+        "scope": "read_station",
+        "refer": "http://localhost:8081/auth"
+    },
+    {
+        "name": "Homematic",
+        "client_id": "61eaf13f7581dc06635b51a9",
+        "scope": "read_station",
+        "refer": "http://localhost:8081/auth"
+    }
+]
