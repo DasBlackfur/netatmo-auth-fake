@@ -12,3 +12,5 @@ tracing = "*"
 tracing-subscriber = "*"
 serde = {version = "*", features = ["derive"]}
 serde_json = "*"
+tower-http = {version = "*", features = ["cors"]}
+tower = "*"

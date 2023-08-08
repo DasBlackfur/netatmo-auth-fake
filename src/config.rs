@@ -7,7 +7,7 @@ pub struct AuthConfig {
     pub name: String,
     pub client_id: String,
     pub scope: String,
-    pub refer: String
+    pub refer: String,
 }
 
 pub async fn get_config() -> Vec<AuthConfig> {
